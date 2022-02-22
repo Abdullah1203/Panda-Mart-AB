@@ -2,3 +2,24 @@ body{
     font-family: 'Poppins', sans-serif;
     margin: 0;
 }
+.container{
+    margin-bottom: 100px;
+}
+.pink-bg{
+    background-color: #feeae9;
+    border-radius: 10px;
+}
+.carousel-item{
+    padding: 20px 40px;
+}
+.pink{
+    color: #ff136f;
+}
+.top-buttons{
+    color: white;
+    border: none;
+    background-image: linear-gradient(to bottom,#ff589b,#ff136f 100%);
+    border-radius: 8px;
+    background-position: 9px 25px;
+    cursor: pointer;
+}
